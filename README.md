@@ -9,9 +9,9 @@ Download both the files provided. Run the capture.sh script to create the CSV fi
 ### Prerequisites
 
 The following must be installed on your system to successfully use this tool.
-Python >3.0
-Pandas Python library
-Tshark library (If you have Wireshark installed then you will automatically have Tshark on your computer too).
+* Python >3.0
+* Pandas Python library
+* Tshark library (If you have Wireshark installed then you will automatically have Tshark on your computer too).
 
 ### Further Details
 
